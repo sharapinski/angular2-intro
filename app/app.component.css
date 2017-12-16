@@ -34,6 +34,7 @@ main {
 }
 
 todo-form,
+todos,
 todo-list {
   width: 100%;
 }
